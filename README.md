@@ -1,4 +1,4 @@
-# 📘 *Book Title Here*
+# 📘 Through The Geek's Lens: An Autobiographical Exploration of Mental Models and Trade-offs
 
 **Author: Marc Magrans de Abril**  
 
@@ -182,7 +182,7 @@ Marc is a lifelong learning wtth an insatiable curiosity for mathematics, scienc
 ## 📬 Contact
 
 - 📧 [marcmagransdeabril@gmail.com](mailto:marcmagransdeabril@gmail.com)  
-- 🌐 [Linkedin](https://www.linkedin.com/in/marcmagransdeabril/]
+- 🌐 [Linkedin](https://www.linkedin.com/in/marcmagransdeabril/)
 
 ## 📝 License
 
