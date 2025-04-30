@@ -174,7 +174,7 @@ The book introduces and explains complex subjects, their factual basis, and thei
 
 ## 👤 Author
 
-**Marc Magrans de Arbil** is an engineer and economist with 20 years of experience in developing software systems and leading software teams. He has worked at CERN (the European Organization for Nuclear Research) and WIPO (the World Intellectual Property Organization), specializing in software development and management. Happily married for nearly 15 years, he is a proud father of three. 
+**Marc Magrans de Arbil** is an engineer and economist with 20 years of experience in developing software systems and leading software teams. He has worked at CERN (the European Organization for Nuclear Research) and WIPO (the World Intellectual Property Organization), specializing in software development and management. Happily married for nearly 15 years, he is a proud father of three, and a dog, Patxi. 
 
 Marc is a lifelong learning wtth an insatiable curiosity for mathematics, science, and engineering, often immersing himself in textbooks as a favorite pastime.
 
