@@ -182,7 +182,7 @@ Marc is a lifelong learning wtth an insatiable curiosity for mathematics, scienc
 ## 📬 Contact
 
 - 📧 [marcmagransdeabril@gmail.com](mailto:marcmagransdeabril@gmail.com)  
-- 🌐 [Linkedin](https://www.linkedin.com/in/marcmagransdeabril/]
+- 🌐 [Linkedin](https://www.linkedin.com/in/marcmagransdeabril/)
 
 ## 📝 License
 
