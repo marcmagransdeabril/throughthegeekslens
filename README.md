@@ -190,3 +190,8 @@ Marc is a lifelong learning wtth an insatiable curiosity for mathematics, scienc
 
 This work is © 2025 by Marc Magrans de Abril. All rights reserved.  
 Please do not reproduce without permission.
+
+## ☁️ Keywords 
+
+Engineering, mathematics, probability, queueing theory, control theory, physics, biology, psychology, economy, parenthood, family, autism, children, marriage, friendship, Theory of Constraints, Law of the Minimum, redundancy, degeneracy, consistency, logic, paraconsistent logic, Zen, optimization, nonlinear, chaos, complexity, decentralization, centralization, Catalonia, Spain, Switzerland, mental models, trade-offs, Markov, Chebyshev, Gaussian, fat-tailed, Pareto, computation, particle physics, CERN, LHC, opportunity cost, cost of delay, chain-link logic, work-life balance, humor, Russia, breadth and depth search, free lunch.
+
