@@ -4,7 +4,7 @@
 
 _Available on [Amazon](https://www.amazon.com/dp/B0D3L1ZKMP)_
 
-_Free [sample]()_.
+_Free [sample](https://github.com/marcmagransdeabril/throughthegeekslens/blob/8a8343619b6d15fb1a852c1818aaa2181fd11c95/throughthegeekslens.pdf?raw=true)_.
 
 ![This is the caption](cover.jpg){width=20%} \
 
