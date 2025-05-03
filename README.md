@@ -6,7 +6,7 @@ _Available on [Amazon](https://www.amazon.com/dp/B0D3L1ZKMP)_
 
 _Free [sample](https://github.com/marcmagransdeabril/throughthegeekslens/blob/main/throughthegeekslens.pdf?raw=true)_.
 
-![This is the caption](cover.jpg {width=20%}) \
+![This is the caption](cover.jpg width=48) \
 
 
 ## 📖 Overview
