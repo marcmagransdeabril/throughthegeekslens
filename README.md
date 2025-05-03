@@ -2,9 +2,12 @@
 
 **Author: Marc Magrans de Abril**  
 
-_Available on [Amazon](#-purchase-links)_
+_Available on [Amazon](https://www.amazon.com/dp/B0D3L1ZKMP)_
 
 _Free [sample]()_.
+
+![This is the caption](cover.jpg){width=20%} \
+
 
 ## 📖 Overview
 
