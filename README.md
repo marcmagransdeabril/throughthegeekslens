@@ -184,9 +184,9 @@ The book introduces and explains complex subjects, their factual basis, and thei
 Marc is a lifelong learning wtth an insatiable curiosity for mathematics, science, and engineering, often immersing himself in textbooks as a favorite pastime.
 
 
-## 📬 Contact
+## 📬 Contact and Feedback
 
-- 📧 [marcmagransdeabril@gmail.com](mailto:marcmagransdeabril@gmail.com)  
+- 📧 [marcmagransdeabril@gmail.com](mailto:marcmagransdeabril@gmail.com)  (feedback is welcomed)
 - 🌐 [Linkedin](https://www.linkedin.com/in/marcmagransdeabril/)
 
 ## 📝 License
