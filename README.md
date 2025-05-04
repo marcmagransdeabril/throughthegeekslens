@@ -4,12 +4,12 @@
 
 _Available on [Amazon](https://www.amazon.com/dp/B0D3L1ZKMP)_
 
-_Free [sample](https://github.com/marcmagransdeabril/throughthegeekslens/blob/main/throughthegeekslens.pdf?raw=true)_, NoteBookLM podcast (English, [Spanish](https://github.com/marcmagransdeabril/throughthegeekslens/blob/main/notebooklm.es.wav?raw=true))
+_Free [sample](https://github.com/marcmagransdeabril/throughthegeekslens/blob/main/throughthegeekslens.pdf?raw=true)_, NoteBookLM podcast (English, [Spanish](https://github.com/marcmagransdeabril/throughthegeekslens/blob/main/notebooklm.es.mp3?raw=true))
 
 <img src="cover.jpg" width="20%" />
 
 <audio controls>
-  <source src="notebooklm.es.wav" type="audio/wav">
+  <source src="https://github.com/marcmagransdeabril/throughthegeekslens/blob/main/notebooklm.es.mp3?raw=true" type="audio/mp3">
 Your browser does not support the audio element.
 </audio>
 
