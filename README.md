@@ -4,7 +4,7 @@
 
 _Available on [Amazon](https://www.amazon.com/dp/B0D3L1ZKMP)_
 
-_Free [sample](https://github.com/marcmagransdeabril/throughthegeekslens/blob/main/throughthegeekslens.pdf?raw=true)_.
+_Free [sample](https://github.com/marcmagransdeabril/throughthegeekslens/blob/main/throughthegeekslens.pdf?raw=true)_, NoteBookLM podcast (English, [Spanish](notebooklm.es.wav))
 
 <img src="cover.jpg" width="20%" />
 
