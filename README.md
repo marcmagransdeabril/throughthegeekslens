@@ -9,7 +9,7 @@ _Free [sample](https://github.com/marcmagransdeabril/throughthegeekslens/blob/ma
 <img src="cover.jpg" width="20%" />
 
 <audio controls>
-  <source src="https://github.com/marcmagransdeabril/throughthegeekslens/blob/main/notebooklm.es.mp3?raw=true" type="audio/mp3">
+  <source src="https://github.com/marcmagransdeabril/throughthegeekslens/blob/main/notebooklm.es.mp3?raw=true" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
