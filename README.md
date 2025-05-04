@@ -4,7 +4,9 @@
 
 _Available on [Amazon](https://www.amazon.com/dp/B0D3L1ZKMP)._
 
-_Free [sample](https://github.com/marcmagransdeabril/throughthegeekslens/blob/main/throughthegeekslens.pdf?raw=true)_, NoteBookLM podcast (_[English](https://github.com/marcmagransdeabril/throughthegeekslens/blob/main/notebooklm.en.mp3?raw=true)_ and a shorter _[Spanish](https://github.com/marcmagransdeabril/throughthegeekslens/blob/main/notebooklm.es.mp3?raw=true)_ version.)
+_Free [sample](https://github.com/marcmagransdeabril/throughthegeekslens/blob/main/throughthegeekslens.pdf?raw=true)_.
+
+NoteBookLM podcast (_[English](https://github.com/marcmagransdeabril/throughthegeekslens/blob/main/notebooklm.en.mp3?raw=true)_ and a shorter version in _[Spanish](https://github.com/marcmagransdeabril/throughthegeekslens/blob/main/notebooklm.es.mp3?raw=true)_.)
 
 <img src="cover.jpg" width="20%" />
 
