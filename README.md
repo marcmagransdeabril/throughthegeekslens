@@ -8,10 +8,6 @@ _Free [sample](https://github.com/marcmagransdeabril/throughthegeekslens/blob/ma
 
 <img src="cover.jpg" width="20%" />
 
-<audio controls autoplay muted>
-  <source src="notebooklm.en.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
 
 ## 📖 Overview
 
