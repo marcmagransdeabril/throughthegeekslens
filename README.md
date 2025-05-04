@@ -2,12 +2,16 @@
 
 **Author: Marc Magrans de Abril**  
 
-_Available on [Amazon](https://www.amazon.com/dp/B0D3L1ZKMP)_
+_Available on [Amazon](https://www.amazon.com/dp/B0D3L1ZKMP)._
 
-_Free [sample](https://github.com/marcmagransdeabril/throughthegeekslens/blob/main/throughthegeekslens.pdf?raw=true)_, NoteBookLM podcast ([English](https://github.com/marcmagransdeabril/throughthegeekslens/blob/main/notebooklm.en.mp3?raw=true), [Spanish](https://github.com/marcmagransdeabril/throughthegeekslens/blob/main/notebooklm.es.mp3?raw=true))
+_Free [sample](https://github.com/marcmagransdeabril/throughthegeekslens/blob/main/throughthegeekslens.pdf?raw=true)_, NoteBookLM podcast (_[English](https://github.com/marcmagransdeabril/throughthegeekslens/blob/main/notebooklm.en.mp3?raw=true)_ and a shorter _[Spanish](https://github.com/marcmagransdeabril/throughthegeekslens/blob/main/notebooklm.es.mp3?raw=true)_ version.)
 
 <img src="cover.jpg" width="20%" />
 
+<audio controls autoplay muted>
+  <source src="notebooklm.en.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 ## 📖 Overview
 
