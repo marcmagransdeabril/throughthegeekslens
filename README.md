@@ -8,7 +8,7 @@ _Free [sample](https://github.com/marcmagransdeabril/throughthegeekslens/blob/ma
 
 NoteBookLM podcast (_[English](https://github.com/marcmagransdeabril/throughthegeekslens/blob/main/notebooklm.en.mp3?raw=true)_ and a shorter version in _[Spanish](https://github.com/marcmagransdeabril/throughthegeekslens/blob/main/notebooklm.es.mp3?raw=true)_.)
 
-<img src="cover.jpg" width="20%" />
+<img src="20250505_Cover.jpg" width="20%" />
 
 
 ## 📖 Overview
