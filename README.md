@@ -168,8 +168,6 @@ The book introduces and explains complex subjects, their factual basis, and thei
 * Further Reading
 * References
 
-
-
 ## ✨ About the Book
 
 > **Genre:** Popular Science / Science Communication, Memoir / Narrative Nonfiction, Essay Collection / Thought Pieces  
@@ -188,6 +186,12 @@ Marc is a lifelong learning wtth an insatiable curiosity for mathematics, scienc
 
 - 📧 [marcmagransdeabril@gmail.com](mailto:marcmagransdeabril@gmail.com)  (feedback is welcomed)
 - 🌐 [Linkedin](https://www.linkedin.com/in/marcmagransdeabril/)
+
+## 🙏 Acknowledgements
+
+This book would not have been possible without the help of Bego, my intelligent friend and loving wife, as well as my mother and sister, whose unconditional support has been invaluable. Special thanks go to my brother, who invited me to CERN for a month—a month that ultimately turned into a lifelong stay in Switzerland—and to Edu, Carlos, Oriol, and Dave for their patient proofreading and feedback. Ignacio Regaida designed a fantastic and professionally looking cover, replacing my initial choice from Amazon's default options. I am also deeply grateful to all the anonymous contributors who, as colleagues, supervisors, friends, and neighbours, have shaped the wholeness of my life reflected in this book.
+
+However, the list above does not cover all the contributors. It is, in fact, a diminutive list of the people required for such an endeavour. Through this book, I am also drawing on the accumulated scientific knowledge of millennia, and through the referenced work, I have tried to give fair credit to a small proportion of such giant thinkers. Most likely, I have missed several crucial references and underappreciated their works. I apologize for that; it is entirely my fault.
 
 ## 📝 License
 
